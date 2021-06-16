@@ -1,0 +1,18 @@
+h2{
+    color: #a1a1a1;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Arial;
+    text-align: center;
+}
+.h2-importante{
+    color: #c43d3d /* !important pisa todo */;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: Arial;
+    text-align: center;    
+}
+.span{
+    font-style: italic;
+}
+h2, p, li {} /* agrupar aplicar a varios */

@@ -1,0 +1,58 @@
+body {
+  font-family: 'Roboto', sans-serif;  
+}
+
+a{
+  text-decoration: none;
+}
+
+header {
+  background-image: url('../img/FondoPantalla.jpg');
+}
+
+main {
+  max-width: 1041px;
+  margin: 50px auto;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #a1a1a1;
+  letter-spacing: 5px;
+  word-spacing: 15px;
+  font-weight: 700;
+  font-family: "Times New Roman";
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 84.69%;
+  color: #005677;
+}
+
+h2{
+    text-transform: uppercase;
+    background-color: #a1a1a1;
+    letter-spacing: 5px;
+    word-spacing: 15px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    font-weight: 700;    
+    color: #005677;
+}
+
+.span {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.span2{
+    font-weight: bold;    
+}
+
+footer {
+  background-color: #005677;
+  text-align: center;
+  color: white;
+}
